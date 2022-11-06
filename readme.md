@@ -24,6 +24,9 @@ For use with [EmulationStation](https://emulationstation.org/index.html)
 - Elcie 	   - for Image editing and insight help
 - [Rodclemen](https://retropie.org.uk/forum/user/rodclemen) - Rendering fixes
 
+## Theme logos:
+- [here](https://sites.google.com/view/comicthemelogos/home)
+
 ## Important Information
 
 This theme is designed for **16:9 aspect ratio only!!!**
