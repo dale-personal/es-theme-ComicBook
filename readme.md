@@ -306,23 +306,31 @@ Planning to add the following:
 |*System*|*System Image*|*Banner Logo*|*Comic*|*Comic Rip*|*Launch Sound*|
 |--------|--------------|-------------|-------|-----------|--------------|
 |3do |:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3ds |:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ags|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |amiga|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |amigacd32|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |amstradcpc|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |apple2|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|apple2gs|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|arcadia|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+|archimedes|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|arduboy|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |atari2600|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |atari5200|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |atari7800|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |atari800|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |atarijaguar|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |atarilynx|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-|atarist|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|atarist|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|atarixe|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 |atomiswave|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|bally-astrocade|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 |bbcmicro|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |c64|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |c64-mini|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |capcom-classic|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|cdi|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |channelf|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |coco|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |colecovision|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -331,7 +339,7 @@ Planning to add the following:
 |cps3
 |daphne|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |desktop|:heavy_plus_sign:|:heavy_check_mark:|:heavy_plus_sign:|:heavy_check_mark:|:x:|
-|dragon32|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|dragon32|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 |dreamcast|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |famicom|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |famicom-classic|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -378,12 +386,14 @@ Planning to add the following:
 |ngp|:heavy_plus_sign:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |ngpc|:heavy_plus_sign:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |odyssey2|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|openbor|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |oric|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |pc|:heavy_plus_sign:|:heavy_check_mark:|:heavy_plus_sign:|:heavy_check_mark:|:x:|
 |pc-88|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |pc-98|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |pce-cd|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |pcengine|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|pc-fx|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |pokemini|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ps2|:heavy_plus_sign:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ps3|:heavy_check_mark:|:heavy_plus_sign:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|
@@ -399,6 +409,8 @@ Planning to add the following:
 |scummvm|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |sega32x|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |segacd|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|segamodel2|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|segamodel3|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |sfc|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |sfc-classic|:heavy_plus_sign:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |sg-1000|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -406,6 +418,7 @@ Planning to add the following:
 |snes-classic-eu|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |snes-classic-us|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |snesh|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|solarus|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |steam|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 |stratagus|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |sufamiturbo|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -414,12 +427,16 @@ Planning to add the following:
 |tg-cd|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |tg16|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |ti99|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-|trs-80|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|trs-80|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 |vectrex|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|vic-20|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |videopac|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |virtualboy|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|watara-supervision|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |wii|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |wiiu|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|wiiware|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|win98|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |wonderswan|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |wonderswancolor|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |x1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -427,6 +444,7 @@ Planning to add the following:
 |xbox|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |xbox360|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |zmachine|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|zx81|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |zxspectrum|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 
 ## Genre Themes (8)
