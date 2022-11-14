@@ -48,8 +48,8 @@
 			<maxSize>0.32 0.32</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-		
-	<sound name="launch">
+
+    <sound name="launch">
       <path>./launch.wav</path>
     </sound>
 
@@ -59,6 +59,7 @@
 	</view>
 
 	<view name="detailed">
+
 	</view>
 
 </theme>

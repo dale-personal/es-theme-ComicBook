@@ -1,11 +1,7 @@
-<!--
-version: 3.2.1
-author: Kevin Thueringer (TMNTturtlguy)
-
--->
 <theme>
-    <formatVersion>4</formatVersion>
+    <formatVersion>3</formatVersion>
     <include>./../comic_book.xml</include>
+
 	<view name="system">
 
 		<image name="SystemBackground" extra="true">
@@ -52,6 +48,10 @@ author: Kevin Thueringer (TMNTturtlguy)
 			<maxSize>0.32 0.32</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
+
+    <sound name="launch">
+      <path>./launch.wav</path>
+    </sound>
 
 	</view>
 
