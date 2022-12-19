@@ -35,12 +35,20 @@
 			<origin>0.5 0.5</origin>
 		</image>
 
-		<image name="classic_logo" extra="true">
+		<image name="classic_logo" extra="true" zIndex="0">
 		  <path>./bannerlogo.png</path>
 		  <pos>0.75 0.086</pos>
 		  <maxSize>0.26 0.125</maxSize>
 		  <origin>0.5 0.5</origin>
 		</image>
+
+
+		<image name="md_marquee" extra="true" zIndex="1">
+		  <pos>0.75 0.086</pos>
+		  <maxSize>0.26 0.125</maxSize>
+		  <origin>0.5 0.5</origin>
+		</image>
+
 
 		<image name="comic_rip" extra="true">
 			<path>./comic_rip.png</path>
