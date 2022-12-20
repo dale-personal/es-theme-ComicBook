@@ -35,11 +35,11 @@
 			<origin>0.5 0.5</origin>
 		</image>
 
-		<image name="classic_logo" extra="true">
-		<path>./bannerlogo.png</path>
-		<pos>0.75 0.086</pos>
-		<maxSize>0.40 0.1</maxSize>
-		<origin>0.5 0.5</origin>
+		<image name="md_marquee" extra="true">
+		  	<default>./bannerlogo.png</default>
+			<pos>0.75 0.086</pos>
+			<maxSize>0.40 0.1</maxSize>
+			<origin>0.5 0.5</origin>
 		</image>
 
 		<image name="comic_rip" extra="true">
@@ -50,7 +50,7 @@
 		</image>
 
 		<sound name="launch">
-		<path>./launch.wav</path>
+			<path>./launch.wav</path>
 		</sound>
 
 	</view>

@@ -35,8 +35,8 @@
 			<origin>0.5 0.5</origin>
 		</image>
 
-		<image name="classic_logo" extra="true">
-			<path>./bannerlogo.png</path>
+		<image name="md_marquee" extra="true">
+		  	<default>./bannerlogo.png</default>
 			<pos>0.75 0.086</pos>
 			<maxSize>0.40 0.1</maxSize>
 			<origin>0.5 0.5</origin>
@@ -48,8 +48,6 @@
 			<maxSize>0.32 0.32</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-
-
 
 	</view>
 
