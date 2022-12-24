@@ -83,6 +83,7 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 	<view name="detailed">
 
 		<image name="md_image">
+			<default>./_assets/default-image.png</default>
 			<pos>0.672 0.4</pos>
 			<maxSize>0.32 0.42</maxSize>
 			<origin>0.5 0.5</origin>
@@ -95,6 +96,7 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 		<view name="video">
 
 			<video name="md_video">
+				<default>./_assets/default-video.mp4</default>
 				<pos>0.672 0.4</pos>
 				<origin>0.5 0.5</origin>
 				<maxSize>0.32 0.42</maxSize>
@@ -109,6 +111,7 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 			</image>
 
 			<image name="md_image">
+				<default>./_assets/default-image.png</default>
 				<pos>0.918 0.525</pos>
 				<maxSize>0.127 0.17</maxSize>
 				<origin>0.5 0.5</origin>

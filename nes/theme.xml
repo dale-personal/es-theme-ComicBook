@@ -28,6 +28,13 @@
 
 	<view name="basic, detailed, video">
 
+		<image name="md_image">
+			<default>./default-image.png</default>
+			<pos>0.918 0.525</pos>
+			<maxSize>0.127 0.17</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
 		<image name="logo">
 			<path>./system.png</path>
 			<pos>0.266 0.086</pos>
