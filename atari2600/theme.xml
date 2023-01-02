@@ -28,6 +28,13 @@
 
 	<view name="basic, detailed, video">
 
+		<image name="md_image">
+			<default>./default-image.png</default>
+			<pos>0.918 0.525</pos>
+			<maxSize>0.127 0.17</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
 		<image name="logo">
 			<path>./system.png</path>
 			<pos>0.266 0.086</pos>
@@ -36,11 +43,12 @@
 		</image>
 
 		<image name="md_marquee" extra="true">
-		  	<default>./bannerlogo.png</default>
-			<pos>0.75 0.086</pos>
-			<maxSize>0.40 0.1</maxSize>
-			<origin>0.5 0.5</origin>
+		  <default>./bannerlogo.png</default>
+		  <pos>0.75 0.086</pos>
+		  <maxSize>0.26 0.125</maxSize>
+		  <origin>0.5 0.5</origin>
 		</image>
+
 
 		<image name="comic_rip" extra="true">
 			<path>./comic_rip.png</path>
